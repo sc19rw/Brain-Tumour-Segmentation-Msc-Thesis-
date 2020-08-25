@@ -618,10 +618,3 @@ finalize = False #CHANGE HERE
 
 if finalize == True:
   save_results()
-
-"""##NOTES"""
-
-#start making actual comparison of models
-#start referencing / ordering
-
-#can change code to allow bigger batches might be much more efficient

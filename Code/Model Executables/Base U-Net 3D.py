@@ -526,8 +526,3 @@ finalize = False #CHANGE HERE
 
 if finalize == True:
   save_results()
-
-"""##NOTES"""
-
-#start making actual comparison of models
-#start referencing / ordering

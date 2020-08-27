@@ -21,6 +21,7 @@ test_dice_loss_list = checkpoint['test_dice_loss_list']
 
 EMA = []
 
+total_epoch = len(test_diceloss_list)
 alpha = 2 / (total_epoch + 1)
 
 for i in range(total_epoch):
